@@ -13,6 +13,10 @@ The repository contains projects made for learning purposes. The projects are pr
 ## Contents
 
 - ### Machine learning
-| Название проекта | Описание | Используемые библиотеки | 
+| Project Name | Project Description | Tools and Skills applied | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Scikit-learn, Pandas, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Scikit-learn, Pandas, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Scikit-learn, Pandas, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Scikit-learn, Pandas, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Scikit-learn, Pandas, Seaborn, Matplotlib, LightGBM, Catboost* |

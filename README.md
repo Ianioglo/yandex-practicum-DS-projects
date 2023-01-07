@@ -6,3 +6,13 @@ Repository containing portfolio of data science projects completed within the co
 
 ![YP](https://user-images.githubusercontent.com/41115130/211000576-853905c5-98fd-46ea-97cd-21296f4ad1b4.png)
 
+The repository contains projects made for learning purposes. The projects are presented in iPython notebook format. 
+
+*Note: the datasets used in the projects cannot be made available due to legal restrictions on their use.*
+
+## Contents
+
+- ### Machine learning
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Музыка больших городов](big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |

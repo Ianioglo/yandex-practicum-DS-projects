@@ -22,3 +22,13 @@ The repository contains projects made for learning purposes. The projects are pr
 | [Identifying the most profitable oil production region](big_cities_music) | There are oil samples in three regions. The characteristics of each well in the region are already known. A model needs to be built to determine the region where production is most profitable. | *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, NumPy, Bootstrap* |
 | [Predicting the Bank's customer churn](big_cities_music) | Customers are leaving the bank. It is cheaper to retain existing customers than to attract new ones. We need to predict whether a client will leave the bank in the near future or not. Historical data on customer behaviour and termination of contracts with the bank are provided. | *Python, Pandas, Scikit-learn, Seaborn, Matplotlib* |
 | [Classification of telecom company customers](big_cities_music) | A mobile operator has found out: many customers use archived tariffs. The mobile operator wants to build a system that can analyse customers behaviour and offer users one of the new tariffs. | *Python, Pandas, Scikit-learn, Seaborn, Matplotlib* |
+
+- ### Natural Language Processing (NLP)
+| Project Name | Project Description | Tools and Skills applied | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, LightGBM, Catboost* |
+
+- ### Computer Vision
+| Project Name | Project Description | Tools and Skills applied | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, LightGBM, Catboost* |

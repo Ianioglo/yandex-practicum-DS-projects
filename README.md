@@ -12,7 +12,7 @@ The repository contains projects made for learning purposes. The projects are pr
 
 ## Contents
 
-- ### Machine learning
+- ### Machine Learning
 | Project Name | Project Description | Tools and Skills applied | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, LightGBM, Catboost* |
@@ -26,9 +26,9 @@ The repository contains projects made for learning purposes. The projects are pr
 - ### Natural Language Processing (NLP)
 | Project Name | Project Description | Tools and Skills applied | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Model learning to classify toxic comments](big_cities_music) | The online shop is launching a new service. Users can now edit and add to product descriptions, just like in wiki communities. That is, customers propose their own edits and comment on the changes of others. A tool is required which will search for toxic comments and send them for moderation.| *Python, Pandas, NLTK, BERT, TF-IDF* |
 
 - ### Computer Vision
 | Project Name | Project Description | Tools and Skills applied | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Predicting customer churn](big_cities_music) | Telecom operator wants to study how to predict customer churn. If it turns out that a user is planning to leave, they will be offered promo codes and special terms. The operator's team has collected personal data on some customers, information about their tariffs and contracts.| *Python, Pandas, Scikit-learn, Seaborn, Matplotlib, LightGBM, Catboost* |
+| [Determining age by photo](big_cities_music) | A chain supermarket is introducing a computer vision system to process customer photos. You need to build a model that will determine the approximate age of a person from a photo.| *Python, Pandas, Keras* |

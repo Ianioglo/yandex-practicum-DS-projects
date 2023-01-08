@@ -39,5 +39,11 @@ The repository contains projects made for learning purposes. The projects are pr
 | [Identifying the patterns and factors that facilitate the success of computer games](big_cities_music) | Using historical data on sales of computer games, user and expert ratings, genres and platforms it's required to carry out the computer games market research and identify the patterns and factors that lead to the success of a particular game.| *Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Data Preprocessing, EDA, Statistical Hypothesis Testing* |
 | [Defining the best profitable tariff for a telecom company](big_cities_music) | A preliminary analysis of tariff usage on a sample of customers needs to be carried out, the behaviour of customers in using the operator's services is to be analysed and the optimal sets of services for users are supposed to be recommended. | *Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Data Preprocessing, EDA, Statistical Hypothesis Testing* |
 | [Flats for sale in St Petersburg - Real estate market analysis](big_cities_music) | Using data from the Real Estate Service, it is necessary to determine the market value of the properties and the typical parameters of the flats. | *Python, Pandas, Matplotlib, Seaborn, Data Preprocessing, EDA, Data Visualization* |
+| [The Bank's borrower reliability study](big_cities_music) | Using creditworthiness statistics, investigate whether the client's marital status and number of children affects whether the loan is repaid on time. | *Python, Pandas, Matplotlib, Data Preprocessing* |
+| [Flats for sale in St Petersburg - Real estate market analysis](big_cities_music) | Yandex.Music data study - a comparison of users in two cities. | *Python, Pandas, Data Preprocessing* |
 
+### Data Encryption
+| Project Name | Project Description | Tools and Skills applied | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Protection of insurance company customer data](big_cities_music) | Developing a model for anonymising the personal data of an insurance company's customers. Elaborating a data transformation method that makes it difficult to retrieve personal customer information.| *Python, Pandas, NumPy, Scikit-learn* |
 

@@ -40,7 +40,7 @@ The repository contains projects made for learning purposes. The projects are pr
 | [Defining the best profitable tariff for a telecom company](big_cities_music) | A preliminary analysis of tariff usage on a sample of customers needs to be carried out, the behaviour of customers in using the operator's services is to be analysed and the optimal sets of services for users are supposed to be recommended. | *Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Data Preprocessing, EDA, Statistical Hypothesis Testing* |
 | [Flats for sale in St Petersburg - Real estate market analysis](big_cities_music) | Using data from the Real Estate Service, it is necessary to determine the market value of the properties and the typical parameters of the flats. | *Python, Pandas, Matplotlib, Seaborn, Data Preprocessing, EDA, Data Visualization* |
 | [The Bank's borrower reliability study](big_cities_music) | Using creditworthiness statistics, investigate whether the client's marital status and number of children affects whether the loan is repaid on time. | *Python, Pandas, Matplotlib, Data Preprocessing* |
-| [Flats for sale in St Petersburg - Real estate market analysis](big_cities_music) | Yandex.Music data study - a comparison of users in two cities. | *Python, Pandas, Data Preprocessing* |
+| [Yandex.Music data study - a comparison of users in two cities](big_cities_music) | Using real data from Yandex.Music with the help of Pandas library and its capabilities to check the data and compare the behaviour and preferences of users of the two cities - Moscow and St. Petersburg. | *Python, Pandas, Data Preprocessing* |
 
 ### Data Encryption
 | Project Name | Project Description | Tools and Skills applied | 

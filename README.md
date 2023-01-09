@@ -33,6 +33,11 @@ The repository contains projects made for learning purposes. The projects are pr
 | :---------------------- | :---------------------- | :---------------------- |
 | [Determining age by photo](big_cities_music) | A chain supermarket is introducing a computer vision system to process customer photos. You need to build a model that will determine the approximate age of a person from a photo.| *Python, Pandas, Keras* |
 
+### Data Encryption
+| Project Name | Project Description | Tools and Skills applied | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Protection of insurance company customer data](big_cities_music) | Developing a model for anonymising the personal data of an insurance company's customers. Elaborating a data transformation method that makes it difficult to retrieve personal customer information.| *Python, Pandas, NumPy, Scikit-learn* |
+
 ### Data Analysis and Visualization
 | Project Name | Project Description | Tools and Skills applied | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -42,8 +47,5 @@ The repository contains projects made for learning purposes. The projects are pr
 | [The Bank's borrower reliability study](big_cities_music) | Using creditworthiness statistics, investigate whether the client's marital status and number of children affects whether the loan is repaid on time. | *Python, Pandas, Matplotlib, Data Preprocessing* |
 | [Yandex.Music data study - a comparison of users in two cities](big_cities_music) | Using real data from Yandex.Music with the help of Pandas library and its capabilities to check the data and compare the behaviour and preferences of users of the two cities - Moscow and St. Petersburg. | *Python, Pandas, Data Preprocessing* |
 
-### Data Encryption
-| Project Name | Project Description | Tools and Skills applied | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Protection of insurance company customer data](big_cities_music) | Developing a model for anonymising the personal data of an insurance company's customers. Elaborating a data transformation method that makes it difficult to retrieve personal customer information.| *Python, Pandas, NumPy, Scikit-learn* |
+
 

@@ -1,4 +1,4 @@
-## Building a model for determining the car's price
+## Building a model for determining a car price
 
 #### Task: 
 Developing a vehicle price recommendation system based on the vehicle's description.
